@@ -11,3 +11,7 @@
 - 7、[推荐系统案例](https://github.com/GoodDayUp/Recommended-system/tree/master/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B)
 
 
+## 推荐系统拓展
+- 1、[如何将知识图谱特征学习应用到推荐系统？](https://www.msra.cn/zh-cn/news/features/embedding-knowledge-graph-in-recommendation-system-ii)
+
+
